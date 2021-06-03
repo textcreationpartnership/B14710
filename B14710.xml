@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe discourse of the voyage and entrance of the Queene of Spaine into Italy: with the triumphes and pomps shewed aswell [sic] in the cittyes of Ostia, Ferrara, Mantua, Cremona, Milane, as in other boroughes and townes of Italy. Also the report of the voyage of the Archduke Albert into Almaigne. / Translated aswell [sic] out of French as Dutch, by H. W..</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14710</idno><idno type="EEBO-CITATION">99893069</idno>
+  <idno type="VID">193594</idno>
+  <idno type="EEBO-PROQUEST">2240931674</idno>
+  
+            <idno type="STC">STC 17323.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.114.d.5[8]</idno>
+            <idno type="PROQUEST">ocm99893069</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893069e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193594)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:1[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe discourse of the voyage and entrance of the Queene of Spaine into Italy: with the triumphes and pomps shewed aswell [sic] in the cittyes of Ostia, Ferrara, Mantua, Cremona, Milane, as in other boroughes and townes of Italy. Also the report of the voyage of the Archduke Albert into Almaigne. / Translated aswell [sic] out of French as Dutch, by H. W..</title>
+                  <author>H. W., tr.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by [J. Windet for] Iohn Wolfe, and are to be solde at his shop, in Popes head Alley neere the Exchange,</publisher>
+                  <pubPlace>At London, :</pubPlace>
+                  <date>[1599].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printer's name, and date of publication from STC.</note>
+                  <note>Dutch original not traced.</note>
+                  <note>Printer's device on t.p. (McK. 294); initial; black letter.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Margarita, --  de Austria, Queen, consort of Philip III, King of Spain, 1584-1611 --  Early works to 1800.</term>
+               <term type="geographic_name">Spain --  History --  Philip III, 1598-1621 --  Early works to 1800.</term>
+               <term type="geographic_name">Italy --  History --  16th century --  Early works to 1800.</term>
+               <term type="geographic_name">Italy --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term type="geographic_name">Spain --  Foreign relations --  Italy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193594:1"/>
+            <pb facs="tcp:193594:1"/>
+            <p>A BRIEFE DISCOVRSE OF <hi>THE ƲOYAGE AND</hi> entrance of the Queene of <hi>Spaine into Italy:</hi> With the Triumphes and pomps <hi>shewed aswell in the Cittyes of Ostia, Fer<g ref="char:EOLhyphen"/>rara,</hi> Mantua, Cremona, Milane, as in other <hi>Boroughes and Townes of Italy.</hi>
+            </p>
+            <p>Also the report of the voyage of the Archduke Albert into Almaigne.</p>
+            <p>Translated aswell out of French as Dutch, by <hi>H. W.</hi>
+            </p>
+            <p>AT LONDON, Printed by <hi>Iohn Wolfe,</hi> and are to be solde at his shop, in Popes head Alley neere the Exchange.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:193594:2"/>
+            <pb facs="tcp:193594:2"/>
+            <head>A briefe discourse of the voyage <hi>and entrance of the Queene of Spaine</hi> into Italie, with the Triumphes and <hi>pompes shewed in the Citties of</hi> Ostia, Ferrara, Mantua Crimona and Millain, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the xiiii. of September <hi>1599.</hi> the Arche<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke <hi>Albe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> de<g ref="char:EOLhyphen"/>parted from <hi>Brussels</hi> accompanied with many Princes and Lords, as well of this countrie as others, ta<g ref="char:EOLhyphen"/>king his course towards <hi>Germa<g ref="char:EOLhyphen"/>nie.</hi> There to méete with the Prin<g ref="char:EOLhyphen"/>cesse Lady <hi>Margarit</hi> of <hi>Austria,</hi> his cousin Germaine, daughter vnto the late Archeduke <hi>Charles,</hi> future Quéene of Spaine, to leade and conduct her to the King her spouse, and in his re<g ref="char:EOLhyphen"/>turne to bring with him his bride, the <hi>Infanta Isabella Clara Eugenia</hi> of <hi>Austria,</hi> Princesse of Spaine and Dut<g ref="char:EOLhyphen"/>chesse of <hi>Brabant.</hi>
+            </p>
+            <p>And sithence his departure, vntill one or two dayes iourneys beyond <hi>Luxenbourgh,</hi> he with all his retinue, haue alwayes spent vpon their owne costs and charges. But entring in the land of the Countie Pallatin of <hi>Hey<g ref="char:EOLhyphen"/>delberch,</hi> the saide Countie deffrayed the charges of his <hi>Alteza</hi> with all his court and followers (which were in number aboue <hi>2000.</hi> persons and <hi>1000.</hi> horses therein comprehended the Mules and horses of baggage) through all the Citties and Townes of his iurisdiction, vntill he came vpon the borders of the Duke of <hi>Wittembergh,</hi> who also did the like throughout all his countrie, vntil he came at the beginning of the borders of the Duke of <hi>Bauiere,</hi>
+               <pb n="2" facs="tcp:193594:3"/>who also fréed all his men and horses of all charges, vntill hee came to <hi>Tyroll,</hi> where euerye one paide his owne charges to <hi>Trent,</hi> where hee found the Quéene, with the Lady Archeduchesse her mother: in which Cittie on<g ref="char:EOLhyphen"/>lie were borne the charges of the persons of her Maiestie, and of their <hi>Altezas,</hi> with the Ladies and Lordes of the chamber, and some Princes of the traine: and all the rest spent on their owne purses.</p>
+            <p>From <hi>Trent</hi> we followed on our voyage, and passed thorough foure or fiue Villages belonging to the <hi>Vene<g ref="char:EOLhyphen"/>cians,</hi> and were all generally defrayed by the said <hi>Veneci<g ref="char:EOLhyphen"/>ans</hi> which sent two Ambassadors well accompanied, to receiue the Quéene at <hi>Dolce,</hi> a towne on the riuer <hi>Arte<g ref="char:EOLhyphen"/>fis:</hi> on the which for the passage, they had made a fayre, great, and large wooden Bridge, vpon chained and anc<g ref="char:EOLhyphen"/>kred boates well made, with two arches and triumphant gates on both ends, builded most magnificently, which was a faire sight, being for garde on either ende, about <hi>2000.</hi> footemen well armed and in good order, which as<g ref="char:EOLhyphen"/>well at thentring as departing, made braue salutations, with great store of Artill<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ris, Muskets and Calliuers, the which (for heeing betweene two mountaines) made a great noyse and eccho. And through out all the coun<g ref="char:EOLhyphen"/>trie where we passed, there were many faire squadrons of well armed footemen, and thirteene companies of Horse<g ref="char:EOLhyphen"/>men, well horsed and in ritche equipage, which followe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our troope all the way vnto the borders of the Duke of <hi>Mautua,</hi> and beeing there for the space of ten or twelue dayes our charges were defrayed, which was a great matter: for the one and other troope of the Quéene and his <hi>Alteza,</hi> was aboue <hi>3500.</hi> men, and <hi>2000.</hi> Horses, the which was all defrayed euen vnto the Horsekéepers and Cookes.</p>
+            <p>Departing out of the territories of the <hi>Venecians,</hi> wee arriued at <hi>Ostia,</hi> a little Towne of the Duke o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:193594:3"/>
+               <hi>Mantuas</hi> on this side of the Riuer <hi>Po.</hi> where the Quéene with his <hi>Alteza,</hi> and her Mother, the Princes and La<g ref="char:EOLhyphen"/>dyes, were passed ouer in certaine chambred Barkes or Barges, the which the Duke to that ende had caused newly to bee made, verie triumphant, and especially that of the Quéenes, which was very great, with two great sumptuous Chambers, hanged with cloath of Siluer, yea the Benches and Stooles, also the roofe of the Chambers were lykewise couered with cloath of Sil<g ref="char:EOLhyphen"/>uer, a thing truely most riche to beholde. And being on the water, they found in the sayde Barges a sumptuous banquet of all manner of delicates and dainties, accom<g ref="char:EOLhyphen"/>panyed with deuine Musicke.</p>
+            <p>All the rest of the Courte, followers and baggage, was passed ouer thrée great Bridges made vpon boates: which being passed ouer on the other side, the Queene with the Ladie her mother was disembarqued, and mounted in Coaches with great store of Torches of white Waxe, at <hi>Reuere,</hi> at the Castell and Towne of the sayde Duke of <hi>Mantua,</hi> who defrayed the charges of the one and the other Courte, the space of foure dayes.</p>
+            <p>At the end of which we departed from <hi>Reuere,</hi> to<g ref="char:EOLhyphen"/>wardes <hi>Ferrara,</hi> downe alongst the Riuer, with great multitudes of Boates, her Maiestie and their <hi>Altezas,</hi> going in the Barques aforesayde, with the same Mu<g ref="char:EOLhyphen"/>sique. And by the waye, her Maiestie desiring to see some Lowe countrye daunces, his <hi>Alteza</hi> caused his Musitians to playe. And there were daunced many Allmaynes, Roundes, Carrantaes and Voltas in the great Chamber of the Barge, wherein shee tooke great pleasure and delight: and most especially in the Voltas which the Duke of <hi>Aumale</hi> daunced, with some of the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>msels which were attendants of the Lady
+<pb n="4" facs="tcp:193594:4"/>the Illustrous Infanta, conducted by the Countesse of <hi>Busquoy</hi> with these tryumphes and pastimes wee arri<g ref="char:EOLhyphen"/>ued about foure of the clocke after dinner, at the Iland of the bridge of the Darke lake, three Italian miles from <hi>Ferrara</hi> vpon a Thurseday the twelfth day of the moneth of Nouember: where the Quéene and their Altezas re<g ref="char:EOLhyphen"/>mained that night, the rest of the Court aduanced them<g ref="char:EOLhyphen"/>selues that night to <hi>Ferrara,</hi> from whence the Friday en<g ref="char:EOLhyphen"/>suing the <hi>13.</hi> of the said moneth, the Pope sent the Car<g ref="char:EOLhyphen"/>dinals <hi>Aldobrandino</hi> and S. <hi>Clement</hi> his Legats nobly accompanied by many Prelates, Gentlemen, and com<g ref="char:EOLhyphen"/>panies of horsemen, launces and harguebusers, to receiue the said Quéene at the said bridge of the obscure Lake, euen as she came out of her Coatch to trauaile towardes <hi>Ferrara.</hi> And sent her by the said Cardinals a present of a Coatch of Crimson Veluet, imbrodered with golde, with sixe white horses harnessed accordingly, &amp; <hi>2.</hi> Coatch<g ref="char:EOLhyphen"/>men apparelled in she same liuery with the Iron worke all gilded, a present truely of great value: In that Coatch her Maiesty (abandoning hers) ascended, with the Lady her Mother. And so accompanied with many Nobles and traine of Ladies, followed on her way, vntill with<g ref="char:EOLhyphen"/>in a shot from <hi>Ferrara,</hi> the Duke of Sessa came to re<g ref="char:EOLhyphen"/>ceiue her in the behalfe of his Catholike Maiesty, his Lord, presenting her with a Litter of fine Crimson co<g ref="char:EOLhyphen"/>lour cloth of golde imbrodred with siluer, with the Iron worke of siluer gilt, and two white mules harnessed ac<g ref="char:EOLhyphen"/>cordingly, with euery Mule his kéeper, apparelled in the same stuffe: also he presented her with a Coach of the same stuffe, and so garnished as the Litter, with sixe like horses and the two Coatchmen in like equipage, a present truely most royall and of inestimable value.</p>
+            <p>This doone, she was receiued by the Cardinals <hi>Sfor<g ref="char:EOLhyphen"/>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Montalto,</hi> who after they had doone the requisite ceremonies, conducted her in a house purposely made of
+<pb n="5" facs="tcp:193594:4"/>boordes, where she was mounted on a white Palffraye, caparassoned with a foote cloath of white cloath of siluer imbrodered and faced with gold: and the Lady the Arche<g ref="char:EOLhyphen"/>dutchesse her mother vpō a black Palfray, harnassed with a footcloath of purple Veluet, garnis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with gold frin<g ref="char:EOLhyphen"/>ges, with al other things accordingly: the Palf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes were sent to them, from his Hollinesse, by the said Cardinals <hi>Sforza</hi> and <hi>Montalto,</hi> and as they were busie in mounting, the cittie made many signes of ioye, discharging many great peeces of ordinance, as falutations at thrée times, which doone, the Quéene came out on her Palffray, be<g ref="char:EOLhyphen"/>tweene the said two Cardinals, followed by the Lady her mother and his <hi>Alteza,</hi> and approaching the gate of An<g ref="char:EOLhyphen"/>gels, she was encountred and met with eightéene other Cardinals, the which after the due teremonies, conducted her through the Cittie to the Castell the Popes Pallace, where being dismounted, was betwéene the said two Cardinals (with the other eightéene, and with the Prin<g ref="char:EOLhyphen"/>ces and Lordes of the Court, and others) conducted be<g ref="char:EOLhyphen"/>fore the féete of his Holinesse, the which with due reue<g ref="char:EOLhyphen"/>rence she kissed, as also did the Lady her mother, and his <hi>Alteza:</hi> which done, she was set not farre from his Hol<g ref="char:EOLhyphen"/>linesse, on the right side, and the Lady her mother and his <hi>Alteza</hi> somewhat lower on the lest side: from thence (after some talke) euery one retired himselfe for that might to his rest.</p>
+            <p>The next daye béeing Saterday, the xiiii. of the saide moneth, her Matestie with her mother and his <hi>Alteza,</hi> heard (about eleu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the clocke) the Masse read by his Hollinesse, after the which they dined with him, and all that day nothing els was done, but the preparations for the marriages for the next day onely at night, there was excellent musicke in the Quéenes chamber.</p>
+            <p>On Sunday the xv. daye, betwéene viii. and ix. of the clocke in the morning, the Quéene (richely attyred in
+<pb n="6" facs="tcp:193594:5"/>clotah of siluer, damasked &amp; garnished, with a number of Iewels and precious stones) was betwéene the two Car<g ref="char:EOLhyphen"/>dinals <hi>Aldobrandino</hi> and <hi>Farneze,</hi> conducted to the Cathe<g ref="char:EOLhyphen"/>drall Church, right ouer against the Pallace, followed by the Lady the Archedutchesse her mother, and her La<g ref="char:EOLhyphen"/>dies all nuptially attyred in white. Before her went his <hi>Alteza</hi> apparelled most richly, and the Duke of Sess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apparelled in blacke, and before them, the constable of <hi>Castile</hi> Gouernour of <hi>Millan:</hi> the Prince of <hi>Orange,</hi> the Dukes of <hi>Gandia</hi> and <hi>Aumale,</hi> the Earle of <hi>Berlay<g ref="char:EOLhyphen"/>mont,</hi> with all the other Princes and lordes, aswell of the court as otherwise, euery one apparelled most rich<g ref="char:EOLhyphen"/>lie: and whilest she entred the church, was sung in excel<g ref="char:EOLhyphen"/>lent musicke of foure voices the ditty of <hi>Aparuit Regina.</hi>
+            </p>
+            <p>A while after, his Holinesse entred, mounted in the Pontificall chayre tarrsed on mens shoulders, with the pontificall Diadem on his head of inestimable value, be<g ref="char:EOLhyphen"/>fore him went the Cardinals on foote pontifically appa<g ref="char:EOLhyphen"/>railed. Being entred and set in another white chayre of cloth of siluer ouer against the Alter (while the Cardinals tendred their accustomed obedience to his Holinesse, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kissing his knee,) the chappell sung some Psalmes, and his Holinesse sung some <hi>Oremus,</hi> which ended, his holi<g ref="char:EOLhyphen"/>nesse changed his apparell and diademe: And being atty<g ref="char:EOLhyphen"/>red againe and vpon his head set an episcopall Miter of fine beaten gold, began solemnely to selebrate the Masse, and after the Gospell and <hi>Offertorium,</hi> his Holinesse set himselfe in another pontificall chayre, couered with cloth of golde, right ouer against the great alter, and before him were brought (by the said Cardinals <hi>Aldobrandino</hi> and <hi>Farneze</hi>) the Quéene and his <hi>Alteza,</hi> and after that his <hi>Al<g ref="char:EOLhyphen"/>teza</hi> had caused to be read the procuration which he had to marrie the Queene in the name of his Catholique Ma<g ref="char:EOLhyphen"/>iestie, his Holinesse married them, publiquely with his owne handes, the benediction giuen, the Psalme <hi>Beatus
+<pb n="7" facs="tcp:193594:5"/>vir qui timet Dominum,</hi> was sung in Musique.</p>
+            <p>This doone, the Quéene was brought backe againe to her Tabernacle, his <hi>Alteza</hi> remaining at the Popes féete, to the which immediatlie the Duke of Sessa approached, and after the Lecture of his commission and power that he had from the illustrous Princesse of Spaine, she was like<g ref="char:EOLhyphen"/>wise by his Holinesse, with like ceremonies married in the name of the said Princesse, to his <hi>Alteza,</hi> and the bendiction giuen, the aforesaid Psalme was repeated. His <hi>Alteza</hi> be<g ref="char:EOLhyphen"/>ing led backe to his Tabernacle, and the Duke of Sessa in his plare, his Holinesse came to the Altar againe to finish the eleuation of the Masse, after which and hauing commu<g ref="char:EOLhyphen"/>nied, he set himselfe againe in the saide pontificall chaire. And after some Cardinals were communied, hee likewise communied (with his owne hands) the married, to wit. The Quéene, his <hi>Alteza,</hi> and the Duke of Sessa, together with the Archeduchesse the Quéens mother: being all com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ned, his Holinesse ended the masse, after which done he sate himselfe in a chaire somewhat lower before the Alter, where hauing caused the Quéene to knéele before him, he presented her the Rose, which presently after was giuen to the hands of the Earle of <hi>Berlaymont</hi> (he only being among the rest there present, knight of the order) who carried the same before the Quéene, vntill her returne to the Pallace.</p>
+            <p>His Holinesse hauing at the end of these rites and cere<g ref="char:EOLhyphen"/>monies giuen his benediction to all the assistantes in gene<g ref="char:EOLhyphen"/>rall, they went out of the church with the same ceremonies and order wherewith they entred. All that day there was nothing doone but masking by water and by land, &amp; about the Cittie shewing great signes of ioye. At night from vii. vntill xi. a clocke was dauncing, intermixed musicke with foure voyces, in a great hall of the court, where were pre<g ref="char:EOLhyphen"/>sent all the nobilitie and beautious Ladies and damsels of <hi>Ferrara:</hi> A thing most excellent and admirable to beholde, being present at these feasts the Quéene and his <hi>Alteza,</hi> but they daunced not.</p>
+            <pb n="8" facs="tcp:193594:6"/>
+            <p> The next day being Munday, the xvi. of the said moneth, for the Quéenes chamber was played an excellent Comedy, for an end of the feasts of <hi>Ferrara:</hi> all the time of our aboade at <hi>Ferrara</hi> both the courts and their traines were defrayed of their expences by his Holinesse. The feasts, good enter<g ref="char:EOLhyphen"/>tainment and vsage done, and the honours and fauours by his Holinesse shewed to the Quéene were scarce ended, whē order was giuen for following on of our voyage towards <hi>Mantua,</hi> which was begun on the Wednesday the xviii. o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the said moneth of Nouember, and notwithstanding that we had great trauell and trouble to passe and repasse on the one &amp; the other side of the riuer <hi>Po;</hi> so for the rainie welber, as for the little commoditie and meanes which were found for passage of such a great number of horses and Mules, la<g ref="char:EOLhyphen"/>den with the baggage of our troope, yet comming at <hi>Stel<g ref="char:EOLhyphen"/>lade</hi> a towne of his Holinesse, the welcome and good vsage was such, but especially at <hi>Mantua,</hi> that all our troubles &amp; labours were forgotten, and recompensed with the good théere, &amp; pastime, which was giuen to the whole court and traine for the space of iiii. or v. iorneys: insomuch that we thought no more vpon our passed toile, onely disposing our selues to be mery, and to enioy the triumphes and honour which the said illustrious Duke shewed vs, whereof y<seg rend="sup">t</seg> thée<g ref="char:EOLhyphen"/>fest was at the entrance of the Quéene, which was on the xx. of Nouember being Friday, &amp; it was two houres after sunne set, before she arriued at the Lake which enuironeth the citty, where shee was to goe a shore about an Italian mile from the citty, being there expected and receiued by the said illustrious Duke, with all the nobles of the citty, and of his court and traine. Her Maiestie being mounted in a Coache, with the Archduchesse her mother, they conducted <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er with an infinite number of lights to the citie, the entry wherof was beset with many squadrons of men of warre, aswell horse as foote, excellently well armed, and in good order and equipage.</p>
+            <p>At the entrie of the cittie gate, on the right hand, the
+<pb n="9" facs="tcp:193594:6"/>Quéene found (for her welcome) a present of a faire L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter, after the vsage of the auncient Romaines, without couer, garnished with cloth of siluer, white like Snowe, borne by two white horses, harnessed accordingly, &amp; on each horse sat a little boye of about v. or vi. yeares of age, attired in like liuerie, with each a garland of Bayes on their head. The horses were ledde by foure Gentlemen, at euery horse two, apparrelled of the same stuffe: in which the Quéene with great ceremonies (after she had béen receiued by the Magi<g ref="char:EOLhyphen"/>strate of the citty with an oration) was mounted &amp; set vpon a little benche (with a cushin of the same stuffe,) which was at the vpper end of the litter, somwhat raised, together with the Lady her mother vpon such another benche somewhat lower at the lower end, vnder a Canopie of the same stuffe as the Litter was, with six pillars of massie siluer, and the same Canopie was borne by six noblemen of the countrie, to wit: the Marquesse <hi>Fredrick Gonzaga,</hi> the Lord <hi>Francis<g ref="char:EOLhyphen"/>co Gonzaga</hi> knight of S. <hi>Iames:</hi> the Earle <hi>Ludouico Bagny:</hi> the Lord <hi>Hipolito Baldrini,</hi> the Lord <hi>Claudio Gaggio,</hi> and the Lord <hi>Ieronimo Kendali,</hi> all Lords of title, the meanest of them being woorth <hi>20000.</hi> Crownes of rent yearlye. Before which went <hi>36.</hi> pages, all Gentlemens children, of the noblest and cheefest of the country, hauing each a torche of white waxe in their hands, all apparrelled in the selfe same liuerte of the Litter, lighting the Quéene as she was borne in her triumphant Litter vnto the Pallace, which also was richly hung &amp; beautified, as any might be, of the richest potentate at this time in the worlde: all the night long theri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie was full of an infinite number of lights.</p>
+            <p>The next daye following, the Lord Duke of <hi>Mantua,</hi> for that he would not séeme to wante dilligence, in gining the Quéene all pastimes possible, hee conducted her to a Castell of his, néere to the Cittie, strong, faire, and sump<g ref="char:EOLhyphen"/>tuous, and inuironed with many shicke Woods, Hauing béene a while in the Castell they went a Hunting, where <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auing killed some certaine number of Boares Stags, &amp;
+<pb n="10" facs="tcp:193594:7"/>Does, they returned to the Citty, an houre after sunne set, and no sooner arriued but imediately were set to supper, &amp; not so soonerise, but presently after were occupied in behol<g ref="char:EOLhyphen"/>ding the pastimes of a Castle builded in the midde<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Pallace, with artificiall fire works, which was be<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and assaulted on euery side with péeces of ordinance: also other fireworks which were shot in the ayre, together with ma<g ref="char:EOLhyphen"/>ny mines made vnder ground, all which in the night gaue a great light with a great noise of thunder, most pleasant and delightfull to behold, and this pastime endured vntill two of the clocke in the morning.</p>
+            <p>The morrow after being Sunday, the <hi>22.</hi> of Nouem<g ref="char:EOLhyphen"/>ber there was done nothing except at night: about <hi>5.</hi> of the clocke there was vpon a great round Theater (wherein euery one might stand) played an excellent Comedy, which dured from the said fiue of the clocke vntill <hi>3.</hi> houres after<g ref="char:EOLhyphen"/>midnight, without any one beeing wearied with séeing or hearing, for the great singularities of inexplicable arti<g ref="char:EOLhyphen"/>ficies which were shewed in the same: which vnto all sée<g ref="char:EOLhyphen"/>med so admirable, so rare and so excellent, that in the iudge<g ref="char:EOLhyphen"/>ments of them all, it should seeme impossible, (as long as the world shal stand) to represent a Comody more excellent and pleasant, where (ouer and aboue the said artificies and admirable rarieties,) there was betwéene euery enterlude, heard most rare musicke of many partes, with diuers in<g ref="char:EOLhyphen"/>struments, accompanied with angelical &amp; delicate voyces, insomuch that it séemed rather a diuine, thē humane thing, or at least wise, that the voices of heauen had intermired themselues with the entire perfection of that of men, and the spirits of this age. Being in fine a thing so rare, that it is impossible to set the same in writing, except the author thereof, or the inuentor of the artificies should doe it him<g ref="char:EOLhyphen"/>selfe: The said comedy, besides the castle of artificial fire<g ref="char:EOLhyphen"/>workes, and besides the trsumphall arkes which were in good number excellent well made, and ouer and aboue the present of the litter, did cost aboue <hi>25000.</hi> crownes of gold
+<pb n="11" facs="tcp:193594:7"/>is I haue been credibly informed by a principal Officer of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e said Duke of <hi>Mantua,</hi> who besides the feast inges, spent in the defrayment of our troopes aboue <hi>50000.</hi> crownes, aswell in passing through his country towardes <hi>Ferrara,</hi> as in repassing towards <hi>Mantua,</hi> hauing shewed himselfe the most liberallest of all the other Princes.</p>
+            <p>These feastes ended, the Quéene with all hir Court and retinue took their course towards <hi>Bozzulo,</hi> a walled town of the Lord <hi>Iulio Caesar Gonzaga,</hi> kinsman to the said Duke of <hi>Mantua,</hi> wherin was a stronge and faire fortresse the which (at the Quéenes arriuall) being on a Tewseday at night the <hi>24.</hi> of the said month) saluted her with many péeces of Ordinance, from this Towne: the one and other court was begun to be defrayed by his catholike Maiesty throughout al the townes and villages of his said Maiesty to <hi>Millan,</hi> &amp; al this while we were defraied of our expences.</p>
+            <p>The morrow after being the xxv. of the said month, we tooke our way towards <hi>Cremona,</hi> whether arriuing the xxv. in the euening the Quéene was met by all the nobili<g ref="char:EOLhyphen"/>ty of the Citty: and after an Oration spoken at the gate by a Gentleman of <hi>Millan,</hi> she was mounted vpon a white Palfrey harnessed in mourning wise: on her left side went the Cardinall <hi>Aldobrandino.</hi> Legat and Nephew to his Holinesse, and behinde her the Lady the Archdutches her Mother, also mounted on a white Palfrey, harnessed in the same manner, accompanied with his <hi>Alteza,</hi> the illustrous Archduke <hi>Albertus:</hi> and thus mounted, was her maiesty conducted vnder a Canopy of cloth of Siluer, imbrodered and fringed with gold, borne by sixe persons with long gownes, vnto the cathedrall church, passing vnder di<g ref="char:EOLhyphen"/>uers triumphall arches, excellent well made &amp; beautified with diuers significations, there getting on the one and the otherside of her Maiesty <hi>40.</hi> Gentlemen, al Merchants of the citty, appareld in white Damaske imbrodered with little flowers and leaues of gold, and thereon they wore their Caped <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oakes of blacke veluer, wrought and im<g ref="char:EOLhyphen"/>brodered
+<pb n="12" facs="tcp:193594:8"/>brodered with golde on the edges, bearing each of them a gilded curtelas on their shoulders, in forme of Archers: be<g ref="char:EOLhyphen"/>sides these there were yet <hi>36.</hi> noblemen of the cittie, which went a foot before her Maiestie, with their Hats in their hands, all their garments laced with gold lace of the bredth of thrée fingers, with cloakes like the other Gentlemen, which truly was a braue show. Her Maiestie hauing done her deuotions in the saide church, mounted at her returne with the Lady the archbuchesse her mother, in a Coache, &amp; so came to the Pallace, where the was no sooner arriued, but the Magistrate presented her Maiestie with a little coafer of siluer gilt, which was thought to be full of Kings and Iewels.</p>
+            <p>The Quéene so iourned but one night in the citty of <hi>Cre<g ref="char:EOLhyphen"/>mona:</hi> the morrow after taking her way to <hi>Pirregneton,</hi> a strong holde of his Catholick maiestie, scituated vpon the riuer of <hi>Lida,</hi> vpoir the which (being very broad) the inha<g ref="char:EOLhyphen"/>bitants had made a great long and broade bridge of boates and boards, anckerd in the riuer, which they had pierced to that effect, to passe all the people and baggage at one time. The Queene at he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> entrance and going out, was saluted onely with shot of Cannon. The next day following be<g ref="char:EOLhyphen"/>ing the xxviii. we went on our iourney to wards <hi>Lodi,</hi> the entraunce whereof (which was on the xxir. of the saide moneth, although not altogether so sumptuous and pom<g ref="char:EOLhyphen"/>ptous as the precedents) was neuerthelesse most magni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cent, aswel for the triumphall arches set vp at the gates and in the streetes of the Cittle, as for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eecipt and honour doone to her Maies<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie by the Noblos of the same, all the which receiued and met her without the gate on foote, apparrelled with long gownes of blacke Ʋeiuer, furred with precious black skinnes, to the number of <hi>50.</hi> persons going before: be <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>de them marched xii. others in long gownes of black <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, representing the high iustice and counsalle <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Catholick maiesty, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> going in good <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der, with each a gilbed staffe in their hands, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wed with
+<pb n="13" facs="tcp:193594:8"/>redde flames: before them went iiii. Bedels, cloathed in yellow cloath, laced with Red and White, the one of them bearing a great siluer dish, and in the same six gilded keyes, interlaced with a string of gold &amp; siluer, and red silke: and after that the one of them had made a short oration in La<g ref="char:EOLhyphen"/>tin, they presented the said keyes to the Queene, who ha<g ref="char:EOLhyphen"/>uing kindlie accepted them, was in a Coatche conducted into the cittie, and first into the Cathedrall Church, from whence, (after the <hi>Te Deum,</hi> in musick,) she was led to the Pallace, without any other ceremonie worth the wri<g ref="char:EOLhyphen"/>ting, staying there but one night.</p>
+            <p>The morrow following, we continued our voyage to<g ref="char:EOLhyphen"/>wards <hi>Marignan,</hi> a strong Castell belonging to the Mar<g ref="char:EOLhyphen"/>ques of <hi>Marignan,</hi> and from thence to <hi>Millan,</hi> where she en<g ref="char:EOLhyphen"/>tred on <hi>S. Andrews</hi> day, between ii. &amp; iii. a clock after dinner.</p>
+            <p>The entrance of <hi>Millan</hi> (although superfluous and of great cost) was not such as the great report went of it, as not hauing the enterteinment, nor the feasts, to all in ge<g ref="char:EOLhyphen"/>nerall, as in the other Citties, and especially in <hi>Mantua,</hi> which with great reason, according to euery ones iudge<g ref="char:EOLhyphen"/>ment, is to beare the Bell away from them all, as hauing truly made a peece of matter of woonderfull excellencie, as<g ref="char:EOLhyphen"/>well by the Comedy, as by other things.</p>
+            <p>The most notablest thing that was in <hi>Millan,</hi> was a triumphant gate at the entrie of the Cittie, builded new of Free stone, which shall remaine there for a perpetuall memory of her entrance: the other triumphant Arches about the Citty were ordinarie, made of Wood, painted with diuers figures and deuises, whereof the best and fai<g ref="char:EOLhyphen"/>rest was at the entrance of the Cathedrall Church, which the Fryars of the sayd Church for her Maiesties welcome had set vp.</p>
+            <p>The Quéene entred vpon a Palfrey, vnder a sumptuous Canopie of cloath of siluer, with golde fringes: at her left side we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Cardinall <hi>Aldobrandino,</hi> brhinde followed the Lady her mother and his <hi>Alteza</hi> on horsehacke: before
+<pb n="14" facs="tcp:193594:9"/>her went the constable of Castile, and on the sides went on foote <hi>200.</hi> Gentlemen, Marchants of the Cittie, apparelle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in cloath of siluer, bearing gilded Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es after the Germain fashion, their staues garnished with cloath of siluer &amp; frin<g ref="char:EOLhyphen"/>ged with golde, and the nailes gilded: besides these, there went on foote <hi>100.</hi> of the noblest of the cittie, most richelie apparrelled in cloath of gold, and <hi>60.</hi> others in red Crimson Veluer and silke, all wrought with golde, sixe whereof bore the Canopie.</p>
+            <p>Her Maiestie entring with this pompe, was conducted to the Cathedrall church, and passing thorow the place to enter into the church, shee passed betweene two statues of brasse erected on horseback, the one wherof represented his Catholique Maiestie deceased, who in passing presented to the Quéene the crowne: the other was the picture of the King now liuing, who as Lord of the feasts (in passing) re<g ref="char:EOLhyphen"/>ceiueth and reacheth our his hand to his Quéne and lady, From thence (the <hi>Te Deum</hi> being sung) she was conducte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on foot to the Pallace, being <hi>20.</hi> paces from the church.</p>
+            <p>Six companies of horsemen, which went in the auant &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>éeregarde, newly armed and in riche equipage of different liueries (whereof the chiefe was <hi>Don Alanso de Id<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ques</hi>) which greatly beautified the entrie. About midnight, there was from the Pallace shot off a great péece of Ordinance, to aduertise those of the Castell of their dutie and demon<g ref="char:EOLhyphen"/>stration of ioy: at which warning the eastell began to play continually for the space of a long howre, with great péeces of ordinance, all charged with bullets, which (for it was night) made a great and horrible noyse.</p>
+            <p>Since, there was not any other feastings made in <hi>Mil<g ref="char:EOLhyphen"/>lain,</hi> except some Comedies of small importance. For the rest, I beséech the courteous reader, to content himselfe to passe away the time with reading of this: which if it bee thankfully and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndly taken, will encourage me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d take the paines to make the discourse of the other entran<g ref="char:EOLhyphen"/>ces at <hi>Millain,</hi> as yet not spoken of.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193594:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
